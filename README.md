@@ -1,6 +1,5 @@
 Corso Linux da zero a avanzato.
 
-
 BLOCCO BASE
 00 - Introduzione https://youtu.be/qcX89gkdlYs
 01 - Installazione Virtual Box e Kali Linux https://youtu.be/tzANfJT0z4U
