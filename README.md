@@ -1,6 +1,6 @@
-Corso Linux da zero a avanzato.
+# Corso Linux da zero a avanzato.
   
-BLOCCO BASE
+## BLOCCO BASE
 00 - Introduzione https://youtu.be/qcX89gkdlYs
 01 - Installazione Virtual Box e Kali Linux https://youtu.be/tzANfJT0z4U
 02 - Primi Comandi https://youtu.be/JZ1oY7HwVko
@@ -13,7 +13,7 @@ BLOCCO BASE
 09 - Gestione software https://youtu.be/OiHzSU8zI0M
 10 - Esercizi e Pratica https://youtu.be/sLCBiKLsmXU
   
-BLOCCO INTERMEDIO
+## BLOCCO INTERMEDIO
 11 - Manipolazione Testo https://youtu.be/sgSo7hNCKh8
 12 - Azioni sul testo https://youtu.be/tbM_bp8HDPc
 13 - Redirect IN/OUT https://youtu.be/F8M5vjLOPUA
@@ -21,5 +21,5 @@ BLOCCO INTERMEDIO
 15 - Espressioni Regolari https://youtu.be/8cNGWM6xM38
 16 - Espressioni Regolari #2 https://youtu.be/G2-D4ZH2d4A
   
-BLOCCO AVANZATO
+## BLOCCO AVANZATO
 17 - Introduzione agli Script https://youtu.be/ZOmMEEri9aA# Corso-Linux
