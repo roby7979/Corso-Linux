@@ -1,4 +1,4 @@
-# Corso Linux da zero a avanzato.
+# Corso Linux da zero a avanzato. (in continuo aggiornamento)
   
 ## BLOCCO BASE
 00.  Introduzione https://youtu.be/qcX89gkdlYs
