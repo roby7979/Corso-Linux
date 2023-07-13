@@ -14,7 +14,7 @@
 10.  Esercizi e Pratica https://youtu.be/sLCBiKLsmXU
   
 ## BLOCCO INTERMEDIO
-11.  Manipolazione Testo https://youtu.be/sgSo7hNCKh8
+11. Manipolazione Testo https://youtu.be/sgSo7hNCKh8
 12. Azioni sul testo https://youtu.be/tbM_bp8HDPc
 13. Redirect IN/OUT https://youtu.be/F8M5vjLOPUA
 14. Comandi avanzati TR e SED https://youtu.be/7cVhMjFjY4s
