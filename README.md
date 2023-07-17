@@ -22,5 +22,5 @@
 16. Espressioni Regolari #2 https://youtu.be/G2-D4ZH2d4A
   
 ## BLOCCO AVANZATO
-17. Introduzione agli Script https://youtu.be/ZOmMEEri9aA# Corso-Linux
+17. Introduzione agli Script https://youtu.be/ZOmMEEri9aA# 
 18. Cosa sono gli Arrays https://youtu.be/1-POUmp5-jM
