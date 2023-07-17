@@ -23,3 +23,4 @@
   
 ## BLOCCO AVANZATO
 17. Introduzione agli Script https://youtu.be/ZOmMEEri9aA# Corso-Linux
+18. Cosa sono gli Arrays https://youtu.be/1-POUmp5-jM
