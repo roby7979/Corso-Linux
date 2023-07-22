@@ -24,3 +24,5 @@
 ## BLOCCO AVANZATO
 17. Introduzione agli Script https://youtu.be/ZOmMEEri9aA# 
 18. Cosa sono gli Arrays https://youtu.be/1-POUmp5-jM
+19. Risoluzione Esercizi video n.18 https://youtu.be/63RPePu8Cas
+20. Le Operazioni Aritmetiche e Logiche https://youtu.be/Bx1WaaGJDhM
